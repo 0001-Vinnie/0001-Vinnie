@@ -124,7 +124,7 @@ under the established and recognized digital security entity "1889".
 <p>&nbsp;</p>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/USING_PROGRAMS-a235c2?style=flat-square&labelColor=a235c2&logoColor=000000" alt="Using Programs" />
+  <img src="https://img.shields.io/badge/USING_PROGRAMS-a235c2?style=flat-square&labelColor=a235c2&logoColor=000000" />
 </div>
 
 
